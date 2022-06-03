@@ -1,18 +1,69 @@
-# dio-flashlight
+# DecolaTech-Projeto-02
 
-Desafio dio: Construindo um app usando o sensor de movimento com React Native
+## DecolaTech 3ª Edição Projeto 02
 
-![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
+# 🏁 Tópicos
+
+ * 👉 Banner
+ * 👉 Título e Descrição
+ * 👉 Status do Projeto
+ * 👉 Funcionalidades
+ * 👉 Demonstração da aplicação
+ * 👉 Pré-requisitos
+ * 👉 Tecnologias utilizadas
+ * 👉 Autor
+ * 👉 Licença 
+ ____________________________________________________________
+# ✅ Banner 👌
+
+![image](https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png)
+
+# ✅ Título e Descrição 👌
+
+### Construindo um app simples
+
+#### Criar um app usando o sensor de movimento com React Native
+
+# ✅ Status do Projeto 👌
+
+### 🚧 Projeto 🚀 Concluído com Sucesso!!! 👌 🚧
+
+
+
+# ✅ Demonstração da aplicação 👌
+
+GitHub
+AlineAlmeida85
 
 ![image](https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png)
 
 
-## Conteúdo 
+# ✅ Pré-requisitos 👌
 
-- Libs react-native-shake e react-native-torch
-- icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
-- StyleSheet
-- Hook useState
-- Hook useEffect
-- Add Listener to RNShake
-- Lifecicly ReactJS
+Npm
+NodeJs
+
+# ✅ Tecnologias utilizadas ⚒️ 👌
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+- [Libs react-native-shake]()
+- [react-native-torch]()
+- [StyleSheet]()
+- [Hook useState]()
+- [icons](https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ)
+- [Hook useEffect]()
+- [Add Listener to RNShake]()
+- [Lifecicly ReactJS]()
+
+# ✅ Autor 👌
+
+Aline Almeida 💝
+
+# ✅ Licença
+
+Não Possui
+
+Espero que te agrade! 💝
+
+
